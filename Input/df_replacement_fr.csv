@@ -1,0 +1,218 @@
+old,new,trans_old,trans_new
+rech_environn ,recherche environnement ,rech_environn,recherche environnement
+rech ,recherche ,rech,recherche
+techno ,technology ,techno,technologie
+scientif ,scientific ,scientif,scientifique
+proj ,project ,proj,projet
+transf/,transfert/,transf /,transfert/
+diff/,diffusion/,diff /,la diffusion/
+rech_,recherche ,rech_,recherche
+valoris.,valorisation,valeur.,valorisation
+prog ,programme ,programme,programme
+sys ,system ,sys,système
+dev ,development ,dev,développement
+ prd , previously rescheduled debt ,pet,dette précédemment rééchelonnée
+ sme , small and medium-sized enterprise ,nous sommes,petite et moyenne entreprise
+ smes , small and medium-sized enterprises ,pme,petites et moyennes entreprises
+gavi , global alliance for vaccines and immunization ,gavi,alliance mondiale pour les vaccins et la vaccination
+gef , global environment facility ,trouvé,installation pour l'environnement mondial
+ifad , international fund for agricultural development ,expression,Fonds international de développement agricole
+ hpp , hydropower plant ,hpp,centrale hydroélectrique
+ppp,public-private partnerships,ppp,Partenariats public-privé
+ u f u fffd , ,u f u fffd,
+ mathieu regnier , ,mathieu regnier,
+ andrew , ,andrew,
+ alan , ,zone,
+ mathieu r?gnier , ,mathieu r?gnier,
+ andrew , ,andrew,
+ alan , ,zone,
+ nicholas , ,nicholas,
+ thomas , ,Thomas,
+ co2 , carbon emissions ,CO2,émission de dioxyde de carbone
+ children , child ,les enfants,enfant
+ agriculturer, agricultur,agriculteur,agriculteur
+ gbv , gender based violence ,gbv,la violence sexiste
+ sgbv , sexual and gender based violence ,scbv,violence sexuelle et sexiste
+ asgm , artisanal and small scale gold mining ,asgm,exploitation aurifère artisanale et à petite échelle
+ edna , environmental dna ,edna,ADN environnemental
+ devco , development cooperation ,devco,coopération au développement
+ eldrly , elderly ,eldrly,les personnes âgées
+ wrk , work ,wrk,travail
+ srvcs , services ,srvcs,prestations de service
+ plcy , policy ,plcy,politique
+ dlvry , delivery ,dlvry,livraison
+ roljs ," rule of law, justice and security ",roljs,"état de droit, justice et sécurité"
+ dlvry , delivery ,dlvry,livraison
+ water suppl , water supply ,alimentation en eau,approvisionnement en eau
+ cws , children with disabilities ,cws,Enfants handicapés
+ organize, organise,organiser,organise
+ labor , labour ,la main d'oeuvre,la main d'oeuvre
+ behavior , behaviour ,comportement,comportement
+ nongovernmental organisation, ngo,Organisation non-gouvernementale,à
+ non-governmental organisation, ngo,Organisation non-gouvernementale,à
+ trans , trans,trans,trans
+ ngos , ngo ,ong,à
+ deve , development ,doit,développement
+ env , environment ,env,environnement
+ mid , mid,milieu,milieu
+ non-, non ,non-,pas
+ wastewater , waste water ,les eaux usées,les eaux usées
+ agro , agro,agro,agro
+ socio , socio,socio,socio
+ center , centre ,centre,centre
+ centers , centres ,centres,centres
+ hiv/aids , hiv ,VIH / SIDA,HIV
+ program , programme ,programme,programme
+ programs , programmes ,programmes,programmes
+neighbor,neighbour,voisin,voisin
+ization,isation,isation,isation
+ anti , anti,anti,anti
+ pre , pre,pour,pour
+ org , organisation ,org,organisation
+childrens ,child ,enfants,enfant
+ womens , women ,aux femmes,femmes
+womens,women,aux femmes,femmes
+ countrys , country ,pays,pays
+ childrens, child ,enfants,enfant
+ women's , women ,aux femmes,femmes
+childrens,child ,enfants,enfant
+ vicitms , victim ,vicitms,victime
+small-scale,small scale,à petite échelle,petite échelle
+ inter , inter,Inter,Inter
+ hivaids , hiv ,hivaids,HIV
+community-based,community based,à base communautaire,basé sur la communauté
+decision-making,decision making,la prise de décision,la prise de décision
+decision-maker,decision maker,décideur,décideur
+gender-based,gender based,basé sur le sexe,basé sur le sexe
+local/regional,local regional,local / régional,local régional
+think-tank,think tank,think-tank,think tank
+co-operation,cooperation,la coopération,la coopération
+co operation,cooperation,la coopération,la coopération
+co operative,cooperative,coopérative,coopérative
+co-operative,cooperative,coopérative,coopérative
+policy-making,policy making,élaboration de politiques,élaboration des politiques
+policy-maker,policy maker,décideur politique,décideur politique
+data-gathering,data gathering,collecte de données,collecte de données
+data-analysis,data analysis,l'analyse des données,l'analyse des données
+rights-based,rights based,basé sur les droits,basé sur les droits
+ cdc , centers for disease and control and prevention ,cdc,centres pour la maladie et le contrôle et la prévention
+ prd , previously rescheduled debt ,pet,dette précédemment rééchelonnée
+ multi , multi,multi,multi
+ sme , small and medium-sized enterprise ,nous sommes,petite et moyenne entreprise
+ smes , small and medium-sized enterprises ,pme,petites et moyennes entreprises
+ icts , ict ,icts,ict
+mediumsized,medium-sized,de taille moyenne,de taille moyenne
+high-level,highlevel,haut niveau,haut niveau
+ ict , information and communication technologies ,ict,technologies de l'information et de la communication
+ ippf , international planned parenthood federation ,ippf,fédération internationale planifiée de la parentalité
+ ldcs , least developed countries ,ldcs,pays les moins développés
+ idps , internally displaced people ,idps,déplacés internes
+ drr , disaster risk reduction ,drr,réduction des risques de catastrophe
+ scp , sustainable consumption and production ,scp,consommation et production durables
+ lme , large marine ecosystem ,lme,grand écosystème marin
+ usd , us dollar ,USD,dollars américain
+ organization, organisation,organisation,organisation
+ gavi , global alliance for vaccines and immunization ,gavi,alliance mondiale pour les vaccins et la vaccination
+ gef , global environment facility ,trouvé,installation pour l'environnement mondial
+ ifad , international fund for agricultural development ,expression,Fonds international de développement agricole
+ hpp , hydropower plant ,hpp,centrale hydroélectrique
+ ppp , public-private partnership ,ppp,partenariat public-privé
+ ppps , public-private partnerships ,ppps,Partenariats public-privé
+ euei , european union energy initiative ,euei,initiative énergétique de l'union européenne
+ fmm , fao's multipartner programme support mechanism ,fmm,mécanisme de soutien au programme multipartite de la fao
+ faos , fao ,faos,fao
+ fao , food and agriculture organisation ,fao,organisation de l'alimentation et de l'agriculture
+ faostat , food and agriculture organization corporate statistical database ,faostat,base de données statistiques de l'organisation de l'alimentation et de l'agriculture
+ ioc , intergovernmental oceanographic commission ,CIO,commission océanographique intergouvernementale
+ ncd ,  noncommunicable diseases ,ncd,les maladies non transmissibles
+ ncds , noncommunicable diseases ,ncds,les maladies non transmissibles
+ iucn , international union for conservation of nature ,iucn,union internationale pour la conservation de la nature
+ iisd , international institute for sustainable development ,iisd,institut international du développement durable
+ unisdr , united nations international strategy for disaster reduction ,unisdr,stratégie internationale des nations unies pour la prévention des catastrophes
+ unccd , united nations convention to combat desertification ,unccd,convention des nations unies pour lutter contre la désertification
+ unodc , united nations office on drugs and crime ,unodc,bureau des nations unies sur les drogues et le crime
+ unido , united nations industrial development organisation ,unis,Organisation des Nations Unies pour le développement industriel
+ unhcr , united nations high commissioner for refugees ,unhcr,haut-commissaire des nations unies pour les réfugiés
+ unfccc , united nations framework convention on climate change ,unfccc,Convention-cadre des Nations Unies sur les changements climatiques
+ unfpa , united nations fund for population activities ,unfpa,fonds des nations unies pour les activités en matière de population
+ unece , united nations economic commission for europe ,rejoint,commission économique des nations unies pour l'europe
+ unwto , world tourism organization ,sans le vouloir,organisation mondiale du tourisme
+ iwrm , integrated water resources management ,iwrm,gestion intégrée des ressources en eau
+ iuu ," illegal, unreported and unregulated fishing ",iuu,"pêche illégale, non déclarée et non réglementée"
+ iclei , international council for local environmental initiatives ,iclei,conseil international pour les initiatives environnementales locales
+ iea , international energy agency ,iea,agence internationale de l'énergie
+ ndcs , ndc ,ndcs,ndc
+ ndc , nationally determined contribution ,ndc,contribution déterminée au niveau national
+ ilo , international labour organisation ,plaisir,organisation internationale du travail
+ wfp , world food programme ,wfp,programme alimentaire mondial
+ ghg , greenhouse gas ,ghg,gaz à effet de serre
+ mpas , mpa ,mpas,mpa
+ mpa ,  marine protected area ,mpa,aire marine protégée
+ efa , education for all ,déjà,l'éducation pour tous
+ wto , world trade organisation ,omc,Organisation mondiale du commerce
+ pacfah , partnership for advocacy in child and family health ,pacfah,partenariat pour le plaidoyer en santé de l'enfant et de la famille
+ seea , system of environmental economic accounting ,la radio,système de comptabilité économique environnementale
+ unsd , united nations statistics division ,unsd,division des statistiques des nations unies
+ uhc , universal health coverage ,euhc,couverture maladie universelle
+ ilc , international labour conference ,CIT,conférence internationale du travail
+ cedaw , committee on the elimination of discrimination against women ,cèdre,commission pour l'élimination de la discrimination à l'égard des femmes
+ wwf , world wide fund for nature ,vWF,Fonds mondial pour la nature sauvage
+ sfm , sustainable forest management ,sra,gestion durable des forêts
+ iom , international organisation for migration ,un peu,organisation internationale pour les migrations
+ icescr ," international covenant on economic, social and cultural rights ",icescr,"Pacte international relatif aux droits économiques, sociaux et culturels"
+ redd , reducing emissions from deforestation and forest degradation ,peur,réduire les émissions dues à la déforestation et à la dégradation des forêts
+ wmo , world meteorological organisation ,wmo,organisation météorologique mondiale
+ unep , united nations environment programme ,unep,programme des nations unies pour l'environnement
+ unesco ," united nations educational, scientific and cultural organisation ",unesco,"Organisation des Nations Unies pour l'éducation, la science et la culture"
+ unicef , united nations international children s emergency fund ,unicef,fonds d urgence international des enfants des nations unies
+ unpbf , united nations peacebuilding fund ,unpbf,Fonds des Nations Unies pour la consolidation de la paix
+ escap , economic and social commission for asia and the pacific ,échapper,commission économique et sociale pour l'asie et le pacifique
+ hlpf , high-level political forum on sustainable development ,hlpf,forum politique de haut niveau sur le développement durable
+ undp , united nations development programme ,undp,Programme de développement des Nations Unies
+ csos , civil society organisations ,csos,organisations de la société civile
+ un habitat , united nations human settlements programme ,un habitat,programme des établissements humains des nations unies
+ un water , united nations water ,une toilette,eau des nations unies
+ un women , united nations entity for gender equality and the empowerment of women ,un femmes,entité des nations unies pour l'égalité des sexes et l'autonomisation des femmes
+ unaids , joint united nations programme on hiv and aids ,aides,programme commun des nations unies sur le vih et le sida
+ oecd , organisation for economic cooperation and development ,ocde,organisation de coopération et de développement économiques
+ paho , panamerican health organisation ,paho,organisation panaméricaine de la santé
+ adbi , asian development bank institute ,adbi,institut de banque de développement asiatique
+ opec , organisation of the petroleum exporting countries ,opec,organisation des pays exportateurs de pétrole
+ sdsn , sustainable development solutions network ,sdsn,réseau de solutions de développement durable
+ cbd , convention on biological diversity ,cbd,convention sur la diversité biologique
+ ibrd , international bank for reconstruction and development ,ibrd,Banque internationale pour la reconstruction et le dévéloppement
+ iriacc , international research initiative on adaptation to climate change ,iriacc,initiative de recherche internationale sur l'adaptation au changement climatique
+ iwrm , integrated water resources management ,iwrm,gestion intégrée des ressources en eau
+ ohchr , office of the united nations high commissioner for human rights ,ohchr,bureau du haut-commissaire des nations unies aux droits de l'homme
+ rmnch ," reproductive, maternal, newborn and child health ",rmnch,"santé génésique, maternelle, néonatale et infantile"
+ pepfar , president's emergency plan for aids relief,poivre,plan d'urgence du président pour le soulagement du sida
+ gfdrr , global facility for disaster reduction and recovery ,gfdrr,facilité mondiale pour la prévention des catastrophes et le relèvement
+ ipcc , intergovernmental panel on climate change ,ipcc,Groupe d'experts intergouvernemental sur les changements climatiques
+ cprgs , comprehensive poverty reduction and growth strategy ,cprgs,stratégie globale de réduction de la pauvreté et de croissance
+ nap align, national adaptation plan align,sieste aligner,alignement du plan national d'adaptation
+ plan for aids , plan for hiv ,planifier les aides,planifier pour le vih
+lgbtiq,lgbt,lgbtiq,lgbt
+lgbti,lgbt,lgbti,lgbt
+hydroelectric,hydro electrical,hydro-électrique,hydro électrique
+hydro-electric,hydro electrical,hydro-électrique,hydro électrique
+hydroelectrical,hydro electrical,hydroélectrique,hydro électrique
+hydrological,hydro,hydrologique,hydro
+hydrology,hydro,hydrologie,hydro
+hydropower,hydro power,hydroélectricité,hydroélectricité
+hydro-power,hydro power,hydroélectricité,hydroélectricité
+medical/dental,medical dental,médical / dentaire,médical dentaire
+poliovirus,polio virus,poliovirus,virus de la polio
+civil-military,civil military,civilo-militaire,civil militaire
+mircoenterprises,micro enterprises,micro-entreprises,micro-entreprises
+mircoenterprise,micro enterprise,mircoenterprise,micro entreprise
+healthcare,health care,soins de santé,soins de santé
+postdoctoral,post doctoral,postdoctoral,post doctorat
+ph.d,phd,ph.d,doctorat
+bioenergy,bio energy,bioénergie,bioénergie
+off-grid,off grid,hors réseau,hors réseau
+(excluding peacekeeping facilities), ,(à l'exclusion des installations de maintien de la paix),
+agricult[.],agriculture,agricult [.],agriculture
+ prov , provincial ,échantillon,provincial
+ deptts , departments ,deptts,départements
+ sus , sustainable ,son,durable
+ ocean freight of usaid ,,fret maritime de usaid,

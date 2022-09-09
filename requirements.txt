@@ -1,0 +1,14 @@
+pandas == 0.25.3
+numpy == 1.15.4
+sklearn == 0.22.1
+xgboost == 0.90
+nltk == 3.4.5
+FrenchLefffLemmatizer
+os
+sys
+tika == 1.2
+PIL == 7.0.0
+pytesseract
+pdf2image
+matplotlib
+seaborn

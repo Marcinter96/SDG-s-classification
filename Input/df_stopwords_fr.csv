@@ -1,0 +1,790 @@
+stopwords,type,translation
+Austria,list_dac_members,Autriche
+Austrian,list_dac_members,autrichien
+Belgium,list_dac_members,Belgique
+Flemish,list_dac_members,flamand
+Waloon,list_dac_members,Waloon
+Denmark,list_dac_members,Danemark
+France,list_dac_members,France
+Germany,list_dac_members,Allemagne
+Italy,list_dac_members,Italie
+Netherlands,list_dac_members,Pays-Bas
+Norway,list_dac_members,Norvège
+Portugal,list_dac_members,Portugal
+Sweden,list_dac_members,Suède
+Switzerland,list_dac_members,Suisse
+Swiss,list_dac_members,Suisse
+United Kingdom,list_dac_members,Royaume-Uni
+UK,list_dac_members,Royaume-Uni
+England,list_dac_members,Angleterre
+British,list_dac_members,Britanique
+Finland,list_dac_members,Finlande
+Iceland,list_dac_members,Islande
+Ireland,list_dac_members,Irlande
+Irish,list_dac_members,irlandais
+Luxembourg,list_dac_members,Luxembourg
+Greece,list_dac_members,Grèce
+Spain,list_dac_members,Espagne
+Slovenia,list_dac_members,Slovénie
+Czech Republic,list_dac_members,République Tchèque
+Slovak Republic,list_dac_members,République slovaque
+Slovakia,list_dac_members,Slovaquie
+Hungary,list_dac_members,Hongrie
+Poland,list_dac_members,Pologne
+Canada,list_dac_members,Canada
+Canadian,list_dac_members,canadien
+United States,list_dac_members,États Unis
+US,list_dac_members,NOUS
+USA,list_dac_members,USA
+American,list_dac_members,américain
+Japan,list_dac_members,Japon
+Korea,list_dac_members,Corée
+Australia,list_dac_members,Australie
+Australian,list_dac_members,australien
+New Zealand,list_dac_members,Nouvelle-Zélande
+EU Institutions,list_dac_members,EU Institutions
+European,list_dac_members,européen
+African Development Bank,list_multi,Banque Africaine de Développement
+AfDB,list_multi,BAD
+African Development Fund,list_multi,Fonds africain de développement
+AfDF,list_multi,AfDF
+AsDB Special Funds,list_multi,Fonds spéciaux de la BAsD
+Asian Development Bank,list_multi,Banque asiatique de développement
+Bill Melinda Gates Foundation,list_multi,Fondation Bill Melinda Gates
+Caribbean Development Bank,list_multi,Banque de développement des Caraïbes
+International Development Association,list_multi,Association internationale de développement
+IDA,list_multi,IDA
+ICRC,list_multi,CICR
+Interamerican Development Bank,list_multi,Banque interaméricaine de développement
+IADB,list_multi,IADB
+OFID,list_multi,NE PAS
+OPEC Fund for International Development,list_multi,Fonds OPEP pour le développement international
+World Bank,list_multi,Banque mondiale
+KOICA,list_multi,KOICA
+Kuwait,list_multi,Koweit
+USAID,list_multi,USAID
+Foreign Commonwealth Office,list_multi,Bureau du Commonwealth étranger
+Earmarked fiscal flows to NGO religious organisations,list_multi,Affecter des flux budgétaires aux organisations religieuses des ONG
+Organisation for Economic Cooperation and Development,list_multi,Organisation de coopération et de développement économiques
+DGIS,list_multi,DGIS
+United Nations,list_multi,Les Nations Unies
+Bundesministerium fur Wirtschaftliche Zusammenarbeit und Entwicklung,list_multi,Ministère fédéral de la coopération économique et du développement
+Artigiancassa,list_multi,Artigiancassa
+Direzione Generale per la Cooperazione allo Sviluppo,list_multi,Direction générale de la coopération au développement
+Red Cross,list_multi,Croix Rouge
+Red Crescent,list_multi,Croissant Rouge
+Kreditanstalt fur Wiederaufbau,list_multi,Prêt de reconstruction
+FinnFund,list_multi,FinnFund
+IFU,list_multi,IFU
+SIDA,list_multi,PAGE
+SNZ,list_multi,SNZ
+ZHC,list_multi,Zhc
+KFAED,list_multi,KFAED
+IDRC,list_multi,CRDI
+SDC,list_multi,SDC
+PQDI,list_multi,PQDI
+Ministry of Foreign Affairs,list_multi,ministère des Affaires étrangères
+Central Government,list_multi,Gouvernement central
+accordance,other_stopwords,conformité
+according,other_stopwords,selon
+accordingly,other_stopwords,en conséquence
+across,other_stopwords,à travers
+action plan,other_stopwords,plan d'action
+actually,other_stopwords,réellement
+affair,other_stopwords,affaire
+affect,other_stopwords,affecter
+agency,other_stopwords,agence
+agenda,other_stopwords,ordre du jour
+agendum,other_stopwords,agir
+aggregate,other_stopwords,agrégat
+aim,other_stopwords,objectif
+allow,other_stopwords,Autoriser
+almost,other_stopwords,presque
+along,other_stopwords,le long de
+already,other_stopwords,déjà
+also,other_stopwords,aussi
+although,other_stopwords,bien que
+always,other_stopwords,toujours
+among,other_stopwords,parmi
+amongst,other_stopwords,parmi
+another,other_stopwords,un autre
+appendix,other_stopwords,appendice
+approximately,other_stopwords,approximativement
+april,other_stopwords,avril
+argue,other_stopwords,se disputer
+around,other_stopwords,autour
+ask,other_stopwords,demander
+assume,other_stopwords,présumer
+august,other_stopwords,août
+author,other_stopwords,auteur
+autonomous governments,other_stopwords,gouvernements autonomes
+become,other_stopwords,devenir
+begin,other_stopwords,commencer
+behalf,other_stopwords,nom
+behind,other_stopwords,derrière
+beyond,other_stopwords,au-delà
+billion,other_stopwords,milliard
+can,other_stopwords,pouvez
+cf,other_stopwords,cf
+chapter,other_stopwords,chapitre
+come,other_stopwords,viens
+commissioner,other_stopwords,le commissaire
+community,other_stopwords,communauté
+communities ,other_stopwords,les communautés
+comparable,other_stopwords,comparable
+confirm,other_stopwords,confirmer
+consider,other_stopwords,considérer
+consist,other_stopwords,consister
+cooperation,other_stopwords,la coopération
+correspond,other_stopwords,correspondre
+currently,other_stopwords,actuellement
+datum,other_stopwords,date
+december,other_stopwords,décembre
+dedicate,other_stopwords,consacrer
+despite,other_stopwords,malgré
+develop country,other_stopwords,pays en développement
+development,other_stopwords,développement
+development bank,other_stopwords,banque de développement
+document,other_stopwords,document
+dollar,other_stopwords,dollar
+donor government,other_stopwords,gouvernement donateur
+e g,other_stopwords,e g
+earmark,other_stopwords,marque
+eight,other_stopwords,huit
+either,other_stopwords,Soit
+element,other_stopwords,élément
+enable,other_stopwords,activer
+enough,other_stopwords,suffisant
+ensure,other_stopwords,assurer
+especially,other_stopwords,notamment
+et al,other_stopwords,et al
+etc,other_stopwords,etc
+euro,other_stopwords,euro
+even,other_stopwords,même
+ever,other_stopwords,déjà
+every,other_stopwords,chaque
+example,other_stopwords,exemple
+excludes costs,other_stopwords,exclut les coûts
+excluding,other_stopwords,à l'exclusion
+exist,other_stopwords,exister
+explicitly,other_stopwords,explicitement
+fr,other_stopwords,fr
+february,other_stopwords,février
+fig,other_stopwords,figure
+figure,other_stopwords,figure
+finally,other_stopwords,enfin
+fiscal flow,other_stopwords,flux fiscal
+five,other_stopwords,cinq
+food agriculture,other_stopwords,agriculture alimentaire
+four,other_stopwords,quatre
+framework,other_stopwords,cadre
+fund,other_stopwords,fonds
+furthermore,other_stopwords,en outre
+generally,other_stopwords,généralement
+gini,other_stopwords,comme ça
+goal,other_stopwords,objectif
+group,other_stopwords,groupe
+happen,other_stopwords,se produire
+hence,other_stopwords,Par conséquent
+highlevel political,other_stopwords,politique de haut niveau
+highly,other_stopwords,très
+however,other_stopwords,pourtant
+importantly,other_stopwords,surtout
+include,other_stopwords,comprendre
+indeed,other_stopwords,En effet
+indicator,other_stopwords,indicateur
+instead,other_stopwords,au lieu
+intend,other_stopwords,avoir l'intention
+interagency,other_stopwords,inter-agence
+international,other_stopwords,international
+issue,other_stopwords,problème
+january,other_stopwords,janvier
+july,other_stopwords,juillet
+june,other_stopwords,juin
+kind,other_stopwords,gentil
+latter,other_stopwords,dernier
+likely,other_stopwords,probable
+local government,other_stopwords,gouvernement local
+ltd,other_stopwords,ltd
+make,other_stopwords,faire
+manage,other_stopwords,gérer
+many,other_stopwords,beaucoup
+march,other_stopwords,Mars
+may,other_stopwords,mai
+mdg,other_stopwords,mdg
+mdgs,other_stopwords,mdgs
+millennium,other_stopwords,millénaire
+million,other_stopwords,million
+miscellaneous,other_stopwords,divers
+moreover,other_stopwords,en outre
+mostly,other_stopwords,la plupart
+much,other_stopwords,beaucoup
+multisector,other_stopwords,multisectoriel
+multisectoral,other_stopwords,multisectoriel
+must,other_stopwords,doit
+near,other_stopwords,près
+nearly,other_stopwords,presque
+neither,other_stopwords,ni
+nevertheless,other_stopwords,cependant
+ngo,other_stopwords,à
+ngos,other_stopwords,ong
+nine,other_stopwords,neuf
+non,other_stopwords,pas
+nonetheless,other_stopwords,toutefois
+notably,other_stopwords,notamment
+note,other_stopwords,Remarque
+november,other_stopwords,novembre
+now,other_stopwords,maintenant
+numb,other_stopwords,engourdi
+number,other_stopwords,nombre
+october,other_stopwords,octobre
+often,other_stopwords,souvent
+one,other_stopwords,un
+organisation,other_stopwords,organisation
+otherwise,other_stopwords,autrement
+overall,other_stopwords,global
+paragraph,other_stopwords,paragraphe
+particularly,other_stopwords,particulièrement
+per,other_stopwords,pour
+per cent,other_stopwords,pour cent
+percent,other_stopwords,pour cent
+percentage,other_stopwords,pourcentage
+perhaps,other_stopwords,peut-être
+phase,other_stopwords,phase
+possible,other_stopwords,possible
+potentially,other_stopwords,potentiellement
+president,other_stopwords,Président
+previously,other_stopwords,précédemment
+primarily,other_stopwords,principalement
+prior,other_stopwords,avant
+private sector,other_stopwords,secteur privé
+programme,other_stopwords,programme
+progressively,other_stopwords,progressivement
+project,other_stopwords,projet
+project title,other_stopwords,Titre du projet
+provincial government,other_stopwords,gouvernement provincial
+purpose,other_stopwords,objectif
+quintile,other_stopwords,quintile
+rather,other_stopwords,plutôt
+recipient government,other_stopwords,gouvernement bénéficiaire
+relate,other_stopwords,rapporter
+relatively,other_stopwords,relativement
+s,other_stopwords,s
+say,other_stopwords,dire
+sdg,other_stopwords,mon frère
+sdgs,other_stopwords,sdgs
+see,other_stopwords,voir
+seek,other_stopwords,chercher
+sek,other_stopwords,sec
+september,other_stopwords,septembre
+seven,other_stopwords,Sept
+shall,other_stopwords,doit
+significantly,other_stopwords,significativement
+since,other_stopwords,puisque
+six,other_stopwords,six
+sometimes,other_stopwords,parfois
+stakeholder,other_stopwords,partie prenante
+still,other_stopwords,encore
+subproject,other_stopwords,sous-projet
+subregional,other_stopwords,sous-régional
+subsector,other_stopwords,sous-secteur
+tackle,other_stopwords,tacle
+take,other_stopwords,prendre
+ten,other_stopwords,cette
+thank,other_stopwords,remercier
+thereby,other_stopwords,ainsi
+therefore,other_stopwords,par conséquent
+third,other_stopwords,troisième
+though,other_stopwords,bien que
+thousand,other_stopwords,mille
+three,other_stopwords,Trois
+thus,other_stopwords,Donc
+today,other_stopwords,aujourd'hui
+toward,other_stopwords,vers
+towards,other_stopwords,vers
+tranche,other_stopwords,tranche
+trillion,other_stopwords,mille milliards
+twice,other_stopwords,deux fois
+two,other_stopwords,deux
+typically,other_stopwords,typiquement
+ultimately,other_stopwords,en fin de compte
+upon,other_stopwords,sur
+use,other_stopwords,utilisation
+usually,other_stopwords,d'habitude
+versus,other_stopwords,contre
+via,other_stopwords,via
+voluntary contribution,other_stopwords,contribution volontaire
+w/,other_stopwords,dans /
+want,other_stopwords,vouloir
+whereas,other_stopwords,tandis que
+whether,other_stopwords,qu'il s'agisse
+whose,other_stopwords,dont
+will,other_stopwords,volonté
+within,other_stopwords,dans
+without,other_stopwords,sans pour autant
+world,other_stopwords,monde
+year,other_stopwords,année
+yet,other_stopwords,encore
+fur,other_stopwords,fourrure
+und,other_stopwords,et
+med,other_stopwords,avec
+och,other_stopwords,et
+san,other_stopwords,san
+santa,other_stopwords,Père Noël
+del,other_stopwords,du
+los,other_stopwords,Les
+por,other_stopwords,pour
+ii,other_stopwords,ii
+iii,other_stopwords,iii
+xvii,other_stopwords,xvii
+www,other_stopwords,www
+com,other_stopwords,avec
+Czech,language_adjectives,tchèque
+Danish,language_adjectives,danois
+Dutch,language_adjectives,néerlandais
+English,language_adjectives,Anglais
+French,language_adjectives,français
+German,language_adjectives,allemand
+Italian,language_adjectives,italien
+Japanese,language_adjectives,Japonais
+Korean,language_adjectives,coréen
+Norwegian,language_adjectives,norvégien
+Slovak,language_adjectives,slovaque
+Spanish,language_adjectives,Espagnol
+Swedish,language_adjectives,suédois
+africa,continents,Afrique
+african,continents,africain
+america,continents,Amérique
+americas,continents,amériques
+arab,continents,arabe
+asia,continents,Asie
+asian,continents,asiatique
+caribbean,continents,Caraïbes
+east,continents,est
+eastern,continents,est
+europe,continents,L'Europe <U+F0D7>
+interamerican,continents,interaméricain
+latin america,continents,Amérique latine
+latin,continents,Latin
+north,continents,Nord
+northeast,continents,nord-est
+northern,continents,nord
+northsouth,continents,northsouth
+oceania,continents,Océanie
+pacific,continents,pacifique
+panamerican,continents,panaméricain
+saharan,continents,saharien
+south,continents,Sud
+southeastern,continents,sud-est
+southern,continents,du sud
+subsaharan,continents,subsaharienne
+west,continents,Ouest
+western,continents,occidental
+i,eng_stopwords,je
+me,eng_stopwords,moi
+my,eng_stopwords,mon
+myself,eng_stopwords,moi même
+we,eng_stopwords,nous
+our,eng_stopwords,notre
+ours,eng_stopwords,les notres
+ourselves,eng_stopwords,nous-mêmes
+you,eng_stopwords,vous
+your,eng_stopwords,votre
+yours,eng_stopwords,le tiens
+yourself,eng_stopwords,toi même
+yourselves,eng_stopwords,vous
+he,eng_stopwords,il
+him,eng_stopwords,lui
+his,eng_stopwords,le sien
+himself,eng_stopwords,lui-même
+she,eng_stopwords,elle
+her,eng_stopwords,sa
+hers,eng_stopwords,la sienne
+herself,eng_stopwords,se
+it,eng_stopwords,il
+its,eng_stopwords,ses
+itself,eng_stopwords,lui-même
+they,eng_stopwords,ils
+them,eng_stopwords,leur
+their,eng_stopwords,leur
+theirs,eng_stopwords,les leurs
+themselves,eng_stopwords,se
+what,eng_stopwords,quoi
+which,eng_stopwords,lequel
+who,eng_stopwords,qui
+whom,eng_stopwords,qui
+this,eng_stopwords,cette
+that,eng_stopwords,cette
+these,eng_stopwords,celles-ci
+those,eng_stopwords,ceux
+am,eng_stopwords,un m
+is,eng_stopwords,est
+are,eng_stopwords,sont
+was,eng_stopwords,était
+were,eng_stopwords,étaient
+be,eng_stopwords,être
+been,eng_stopwords,été
+being,eng_stopwords,étant
+have,eng_stopwords,avoir
+has,eng_stopwords,a
+had,eng_stopwords,avait
+having,eng_stopwords,ayant
+do,eng_stopwords,faire
+does,eng_stopwords,Est-ce que
+did,eng_stopwords,fait
+doing,eng_stopwords,Faire
+would,eng_stopwords,voudrais
+should,eng_stopwords,devrait
+could,eng_stopwords,pourrait
+ought,eng_stopwords,devrait
+i'm,eng_stopwords,je suis
+you're,eng_stopwords,tu es
+he's,eng_stopwords,il est
+she's,eng_stopwords,elle est
+it's,eng_stopwords,ses
+we're,eng_stopwords,étaient
+they're,eng_stopwords,ils sont
+i've,eng_stopwords,i aVONS
+you've,eng_stopwords,vous avez
+we've,eng_stopwords,nous avons
+they've,eng_stopwords,ils ont
+i'd,eng_stopwords,je ferais
+you'd,eng_stopwords,tu ferais
+he'd,eng_stopwords,il avait
+she'd,eng_stopwords,cabanon
+we'd,eng_stopwords,mer
+they'd,eng_stopwords,ils avaient
+i'll,eng_stopwords,mauvais
+you'll,eng_stopwords,tu vas
+he'll,eng_stopwords,enfer
+she'll,eng_stopwords,coquille
+we'll,eng_stopwords,bien
+they'll,eng_stopwords,ils vont
+isn't,eng_stopwords,n'est pas
+aren't,eng_stopwords,ne sont pas
+wasn't,eng_stopwords,n'était pas
+weren't,eng_stopwords,n'étaient pas
+hasn't,eng_stopwords,n'a pas
+haven't,eng_stopwords,pas
+hadn't,eng_stopwords,n'avait pas
+doesn't,eng_stopwords,ne
+don't,eng_stopwords,ne le fais pas
+didn't,eng_stopwords,n'a pas
+won't,eng_stopwords,habitude
+wouldn't,eng_stopwords,ne serait pas
+shan't,eng_stopwords,ne va pas
+shouldn't,eng_stopwords,ne devrait pas
+can't,eng_stopwords,ne peut pas
+cannot,eng_stopwords,ne peux pas
+couldn't,eng_stopwords,ne pouvait pas
+mustn't,eng_stopwords,ne doit pas
+let's,eng_stopwords,allons
+that's,eng_stopwords,c'est
+who's,eng_stopwords,qui est
+what's,eng_stopwords,qu'est-ce que
+here's,eng_stopwords,voici
+there's,eng_stopwords,il y a
+when's,eng_stopwords,quand est
+where's,eng_stopwords,où est
+why's,eng_stopwords,pourquoi
+how's,eng_stopwords,comment va
+a,eng_stopwords,une
+an,eng_stopwords,un
+the,eng_stopwords,le
+and,eng_stopwords,et
+but,eng_stopwords,mais
+if,eng_stopwords,si
+or,eng_stopwords,ou
+because,eng_stopwords,car
+as,eng_stopwords,comme
+until,eng_stopwords,jusqu'à
+while,eng_stopwords,tandis que
+of,eng_stopwords,de
+at,eng_stopwords,à
+by,eng_stopwords,par
+for,eng_stopwords,pour
+with,eng_stopwords,avec
+about,eng_stopwords,sur
+against,eng_stopwords,contre
+between,eng_stopwords,entre
+into,eng_stopwords,dans
+through,eng_stopwords,par
+during,eng_stopwords,pendant
+before,eng_stopwords,avant
+after,eng_stopwords,après
+above,eng_stopwords,au dessus
+below,eng_stopwords,au dessous de
+to,eng_stopwords,à
+from,eng_stopwords,de
+up,eng_stopwords,en haut
+down,eng_stopwords,vers le bas
+in,eng_stopwords,dans
+out,eng_stopwords,en dehors
+on,eng_stopwords,sur
+off,eng_stopwords,de
+over,eng_stopwords,plus de
+under,eng_stopwords,en dessous de
+again,eng_stopwords,encore
+further,eng_stopwords,plus loin
+then,eng_stopwords,ensuite
+once,eng_stopwords,une fois que
+here,eng_stopwords,ici
+there,eng_stopwords,Là
+when,eng_stopwords,quand
+where,eng_stopwords,où
+why,eng_stopwords,Pourquoi
+how,eng_stopwords,Comment
+all,eng_stopwords,tout
+any,eng_stopwords,tout
+both,eng_stopwords,tous les deux
+each,eng_stopwords,chaque
+few,eng_stopwords,peu
+more,eng_stopwords,plus
+most,eng_stopwords,plus
+other,eng_stopwords,autre
+some,eng_stopwords,certains
+such,eng_stopwords,tel
+no,eng_stopwords,non
+nor,eng_stopwords,ni
+not,eng_stopwords,ne pas
+only,eng_stopwords,seulement
+own,eng_stopwords,posséder
+same,eng_stopwords,même
+so,eng_stopwords,donc
+than,eng_stopwords,que
+too,eng_stopwords,aussi
+very,eng_stopwords,très
+absolute,unigram_stopwords,absolu
+aid,unigram_stopwords,aide
+big,unigram_stopwords,gros
+century,unigram_stopwords,siècle
+convention,unigram_stopwords,convention
+council,unigram_stopwords,conseil
+country,unigram_stopwords,pays
+department,unigram_stopwords,département
+develop,unigram_stopwords,développer
+dispatch,unigram_stopwords,envoi
+double,unigram_stopwords,double
+embassy,unigram_stopwords,ambassade
+enhance,unigram_stopwords,améliorer
+federal,unigram_stopwords,fédéral
+forum,unigram_stopwords,forum
+high,unigram_stopwords,haute
+give,unigram_stopwords,donner
+good,unigram_stopwords,bien
+great,unigram_stopwords,génial
+institute,unigram_stopwords,institut
+less,unigram_stopwords,Moins
+long,unigram_stopwords,longue
+main,unigram_stopwords,principale
+member,unigram_stopwords,membre
+micro,unigram_stopwords,micro
+middle,unigram_stopwords,milieu
+minister,unigram_stopwords,ministre
+ministerial,unigram_stopwords,ministériel
+ministry,unigram_stopwords,ministère
+multinational,unigram_stopwords,multinational
+national,unigram_stopwords,nationale
+next,unigram_stopwords,suivant
+offs,unigram_stopwords,offs
+post,unigram_stopwords,Publier
+provincial,unigram_stopwords,provincial
+regional,unigram_stopwords,régional
+relative,unigram_stopwords,relatif
+round,unigram_stopwords,rond
+sector,unigram_stopwords,secteur
+sub,unigram_stopwords,sous
+subnational,unigram_stopwords,infranational
+subregion,unigram_stopwords,sous-région
+supplementary,unigram_stopwords,supplémentaire
+support,unigram_stopwords,soutien
+sustainable,unigram_stopwords,durable
+target,unigram_stopwords,cible
+think,unigram_stopwords,pense
+upper,unigram_stopwords,plus haut
+various,unigram_stopwords,divers
+abu dhabi,list_countries,abu dhabi
+addis ababa,list_countries,Addis-Abeba
+afghanistan,list_countries,afghanistan
+albania,list_countries,Albanie
+algeria,list_countries,Algérie
+angola,list_countries,angola
+argentina,list_countries,argentine
+armenia,list_countries,Arménie
+azerbaijan,list_countries,Azerbaïdjan
+bangkok,list_countries,Bangkok
+bangladesh,list_countries,bangladesh
+belarus,list_countries,biélorussie
+benin,list_countries,Bénin
+bhutan,list_countries,bhoutan
+bolivia,list_countries,Bolivie
+bosnia,list_countries,Bosnie
+herzegovina,list_countries,herzégovine
+botswana,list_countries,le botswana
+brazil,list_countries,Brésil
+bulgaria,list_countries,Bulgarie
+burkina faso,list_countries,burkina faso
+faso,list_countries,faso
+burma,list_countries,Birmanie
+burundi,list_countries,burundi
+cabo verde,list_countries,Cap-Vert
+cambodia,list_countries,Cambodge
+cameroon,list_countries,Cameroun
+chad,list_countries,tchad
+chile,list_countries,Chili
+china,list_countries,Chine
+colombia,list_countries,La Colombie
+congo,list_countries,Congo
+costa rica,list_countries,Costa Rica
+cote d ivoire,list_countries,cote d ivoire
+cote divoire,list_countries,cote divoire
+croatia,list_countries,Croatie
+cyprus,list_countries,Chypre
+dominican,list_countries,dominicain
+drc,list_countries,drc
+ecuador,list_countries,équateur
+egypt,list_countries,Egypte
+el salvador,list_countries,le sauveur
+salvador,list_countries,Salvador
+estonia,list_countries,Estonie
+ethiopia,list_countries,Ethiopie
+fiji,list_countries,Fidji
+gabon,list_countries,Gabon
+gambia,list_countries,Gambie
+geneva,list_countries,Genève
+georgia,list_countries,Géorgie
+ghana,list_countries,Ghana
+guatemala,list_countries,Guatemala
+guinea,list_countries,Guinée
+guyana,list_countries,Guyane
+haiti,list_countries,Haïti
+honduras,list_countries,Honduras
+india,list_countries,Inde
+indian,list_countries,Indien
+indonesia,list_countries,Indonésie
+iran,list_countries,J'ai couru
+iraq,list_countries,Irak
+israel,list_countries,Israël
+ivory coast,list_countries,Côte d'Ivoire
+jamaica,list_countries,Jamaïque
+jordan,list_countries,Jordan
+kazakhstan,list_countries,kazakhstan
+kenya,list_countries,Kenya
+kinshasa,list_countries,Kinshasa
+kiribati,list_countries,Kiribati
+kosovo,list_countries,kosovo
+kyrgyzstan,list_countries,Kirghizistan
+lao,list_countries,TB
+laos,list_countries,Laos
+latvia,list_countries,Lettonie
+lebanon,list_countries,Liban
+lesotho,list_countries,Lesotho
+liberia,list_countries,Libéria
+libya,list_countries,Libye
+lima,list_countries,citron vert
+lithuania,list_countries,Lituanie
+luxemb,list_countries,luxemb
+macedonia,list_countries,macédoine
+madagascar,list_countries,Madagascar
+maldives,list_countries,Maldives
+malawi,list_countries,Malawi
+malaysia,list_countries,malaisie
+mali,list_countries,Mali
+malta,list_countries,Malte
+mauritania,list_countries,Mauritanie
+mauritius,list_countries,maurice
+mexico,list_countries,Mexique
+moldova,list_countries,Moldavie
+mongolia,list_countries,Mongolie
+montenegro,list_countries,Monténégro
+morocco,list_countries,Maroc
+mozamb,list_countries,mozamb
+mozambique,list_countries,mozambique
+myanmar,list_countries,myanmar
+nairobi,list_countries,nairobi
+namibia,list_countries,Namibie
+nepal,list_countries,Népal
+new york,list_countries,New York
+nicaragua,list_countries,Nicaragua
+niger,list_countries,Niger
+nigeria,list_countries,Nigeria
+oman,list_countries,Oman
+pakistan,list_countries,Pakistan
+palestine,list_countries,Palestine
+palestinian,list_countries,palestinien
+panama,list_countries,Panama
+papua,list_countries,papouasie
+paraguay,list_countries,paraguay
+paris,list_countries,paris
+peru,list_countries,Pérou
+philippines,list_countries,philippines
+qatar,list_countries,Qatar
+rio,list_countries,rivière
+romania,list_countries,Roumanie
+russia,list_countries,Russie
+russian federation,list_countries,Fédération Russe
+rwanda,list_countries,Rwanda
+samoa,list_countries,samoa
+saudi arabia,list_countries,arabie saoudite
+sendai,list_countries,sendai
+senegal,list_countries,Sénégal
+serbia,list_countries,Serbie
+seychelles,list_countries,les Seychelles
+sierra leone,list_countries,sierra leone
+singapore,list_countries,Singapour
+somalia,list_countries,Somalie
+sri lanka,list_countries,Sri Lanka
+sudan,list_countries,Soudan
+suriname,list_countries,suriname
+swaziland,list_countries,swaziland
+syria,list_countries,Syrie
+syrian,list_countries,syrien
+tajikistan,list_countries,le tadjikistan
+tanzania,list_countries,Tanzanie
+thailand,list_countries,Thaïlande
+togo,list_countries,aller
+trinidad,list_countries,Trinidad
+trinidad and tobago,list_countries,Trinité-et-Tobago
+tobago,list_countries,Tobago
+tunisia,list_countries,Tunisie
+turkey,list_countries,dinde
+tuvalu,list_countries,tuvalu
+uae,list_countries,Émirats arabes unis
+uganda,list_countries,Ouganda
+ukraine,list_countries,Ukraine
+uruguay,list_countries,Uruguay
+uzbekistan,list_countries,Ouzbékistan
+venezuela,list_countries,Venezuela
+viet nam,list_countries,Vietnam
+vietnam,list_countries,vietnam
+washington,list_countries,Washington
+yemen,list_countries,Yémen
+zambia,list_countries,Zambie
+zimbabwe,list_countries,Zimbabwe
+ u ,train_stopwords,dans
+ ubs ,train_stopwords,ubs
+ rep ,train_stopwords,représentant
+ republic ,train_stopwords,république
+ pdr ,train_stopwords,pdr
+ ing ,train_stopwords,ing
+ tion ,train_stopwords,tion
+ ment ,train_stopwords,ment
+ pdf ,train_stopwords,pdf
+ g e ,train_stopwords,g e
+ n ,train_stopwords,n
+ ce rev ,train_stopwords,quel rev
+ dem ,train_stopwords,le
+ n country ,train_stopwords,n pays
+ n countries ,train_stopwords,n pays
+ com ,train_stopwords,avec
+ re g ,train_stopwords,re g
+ sdgindex ,train_stopwords,sdgindex
+ web page,train_stopwords,page Web
+ page ,train_stopwords,page
+ working paper,train_stopwords,document de travail
+ iaeg ,train_stopwords,iaeg
+ c ,train_stopwords,c
+ nb ,train_stopwords,nb
+ available online,train_stopwords,disponible en ligne
+ -,,-
+sustainability report,,rapport de durabilité
